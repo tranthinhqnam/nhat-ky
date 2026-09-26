@@ -16,5 +16,17 @@
     "mood": "🥰",
     "weather": "🌤️",
     "createdAt": "2026-09-26T18:19:33.326Z"
+  },
+  {
+    "id": "2026-09-27-jfl49",
+    "date": "2026-09-27",
+    "title": "hi",
+    "content": "test",
+    "mood": "😊",
+    "weather": "☀️",
+    "images": [
+      "images/2026-09-27-opxhcs.jpg"
+    ],
+    "createdAt": "2026-09-26T18:33:41.105Z"
   }
 ]
